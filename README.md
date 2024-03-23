@@ -24,7 +24,7 @@ $$ IEC_{Q, i} = \frac{f_{Q, i}}{w_Q} $$
 
 The level of EC in a community $c$ is the defined as the mean level of individual EC of low-SES $L$ (for example, below-median) members of that community, as follows:
 
-$$ EC_{c} = \frac{\sum_{i \in L \cap c}\mathrm{IEC}_i}{N_{Lc}} $$
+$$ EC_{c} = \frac{\sum_{i \in L \cap c}IEC_i}{N_{Lc}} $$
 
 where $N_{Lc}$ is the number of low-SES individuals in community $c$.
 

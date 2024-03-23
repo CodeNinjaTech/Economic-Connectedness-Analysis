@@ -20,7 +20,7 @@ $$ f_{Q, i} = \frac{[\textrm{Number of friends in SES quantile}\ Q]_i}{\textrm{T
 
 Then we normalize $f_{Q,i}$ by the share of individuals in the sample who belong to quantile $Q$, $w_Q$ (for example, $w_Q = 0.1$ for deciles) to get the Individual Economic Connectedness (IEC):
 
-$$ \mathrm{IEC}_{Q, i} = \frac{f_{Q, i}}{w_Q} $$
+$$ IEC_{Q, i} = \frac{f_{Q, i}}{w_Q} $$
 
 The level of EC in a community $c$ is the defined as the mean level of individual EC of low-SES $L$ (for example, below-median) members of that community, as follows:
 

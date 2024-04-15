@@ -1,5 +1,7 @@
 # Economic Connectedness
 
+Assignment 1 for the Analytics Practicum I Course of AUEB's MSc in Business Analytics.
+
 In this assignment you will replicate partly two studies carried out on social capital. The studies appeared in the journal Nature:
 
 * Chetty, R., Jackson, M.O., Kuchler, T. et al. Social capital I: measurement and associations with economic mobility. Nature 608, 108–121 (2022). https://doi.org/10.1038/s41586-022-04996-4.
